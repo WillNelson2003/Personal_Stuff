@@ -1,2 +1,2 @@
 # Personal_Stuff
-Personal Learning Projects
+Personal projects for me to practise and learn seperate to uni course work
